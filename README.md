@@ -63,4 +63,7 @@ It processes thousands of historical candles and simulates up to 10,000 future p
 ## 💼 Why this matters (Economic & Quant Perspective)
 In quantitative finance, retail traders often fail due to psychological biases and poor risk management. This tool forces a probabilistic mindset. By defining trading opportunities strictly through the lens of expected value and statistical recurrence (Monte Carlo), it treats the financial markets not as a casino, but as a system of manageable risks and measurable edges.
 
+<img width="1725" height="821" alt="image" src="https://github.com/user-attachments/assets/74d7906a-3588-42e5-8699-f11a2e33eaa0" />
+
+
 ***Note:** This software is for educational and simulation purposes. It does not constitute financial advice.*
