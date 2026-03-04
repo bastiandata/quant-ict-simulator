@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno Virtual
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook (en caso de usarlos para análisis exploratorio)
+.ipynb_checkpoints
+
+# Entornos de desarrollo / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Configuración local / Secretos (CUIDADO: Nunca subir claves API)
+.env
+.env.local
+config.ini
+secrets.json
+
+# Gradio / Caché
+gradio_cached_examples/
+flagged/

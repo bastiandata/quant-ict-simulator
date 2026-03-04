@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+ccxt
+yfinance
+gradio
+gradio-client
